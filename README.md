@@ -37,7 +37,7 @@ with transaction.atomic():
 
 This ensures that concurrent purchase requests cannot overdraw the user's balance.
 
-2. Filtering & Search
+2. Pagination, Filtering & Search
 
 Users can filter books by title, author, published_date, or use a full-text search query across multiple fields.
 
