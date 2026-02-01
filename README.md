@@ -6,7 +6,7 @@ Features Overview
 
 CRUD API for Book model (GET, POST, PATCH, DELETE)
 
-Filtering & Search on multiple fields (title, author, published_date) and full-text search
+Pagination, Filtering & Search on multiple fields (title, author, published_date) and full-text search
 
 Database Indexing on author and published_date for fast query performance
 
