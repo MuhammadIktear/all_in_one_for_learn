@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+celerybeat-schedule
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+__pycache__/
